@@ -1,0 +1,10 @@
+{
+    "plugins": ["@typescript-eslint"],
+    "extends": [
+      "xo",
+      "xo-typescript"
+    ],
+    "rules": {
+      "@typescript-eslint/no-unused-vars": "warn"
+    }
+  }
